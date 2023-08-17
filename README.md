@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnudharan M</h1>
-<h3 align="center">A Data Science Enthusiast --> Agumentative, Curious, Judgemental on Data</h3>
+<h3 align="center">A Data Science Enthusiast --> Argumentative, Curious, and Judgemental on Data/h3>
 
 - 🌱 I’m currently learning **Data Analytics**
 
@@ -7,13 +7,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vishnudharanm](https://medium.com/@vishnudharanm)
 
-- 💬 Ask me about **Data-Driven Decison Making**
+- 💬 Ask me about **Data-Driven Decision Making**
 
 - 📫 How to reach me **vishnumega123@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tPW7toisYktYbWFd1UufOxR1LQ8kxGiG/view?usp=sharing](https://drive.google.com/file/d/1tPW7toisYktYbWFd1UufOxR1LQ8kxGiG/view?usp=sharing)
 
-- ⚡ Fun fact **Dive ti thrill into the life as an Data Analyst**
+- ⚡ Fun fact **Dive to thrill into the life as a Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
